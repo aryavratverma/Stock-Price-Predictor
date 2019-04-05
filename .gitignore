@@ -4,3 +4,4 @@
 *.json
 .vs/Stock-Prediction-Analysis/v15/.suo
 *.sqlite
+*.ipynb
